@@ -1,5 +1,5 @@
 # AnimatorDemo
-An Android project that illustrates using Java threads to animate the motion of a planet around the Sun assuming a circular orbit. 
+An Android project that illustrates using Java threads and the Runnable interface to animate the motion of a planet around the Sun assuming a circular orbit. 
 
 The projects in these repositories correspond to individual lessons in the free online android programming course 
 at http://eagle.phys.utk.edu/guidry/android/ 
